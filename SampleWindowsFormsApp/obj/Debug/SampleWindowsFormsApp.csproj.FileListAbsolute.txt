@@ -1,0 +1,10 @@
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.exe.config
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.exe
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\bin\Debug\SampleWindowsFormsApp.pdb
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.Form1.resources
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.Properties.Resources.resources
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.exe
+C:\Users\Aniruddha\Documents\Visual Studio 2019\SampleWindowsFormsApp\SampleWindowsFormsApp\obj\Debug\SampleWindowsFormsApp.pdb
